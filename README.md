@@ -52,7 +52,9 @@ Improved Productivity: Reduces the time spent on manual data entry and translati
 The Smart Invoice Analyzer enhances efficiency in handling multi-language invoices by automating the extraction and translation processes using advanced OCR and AI techniques. By simplifying the extraction of data from images and supporting multiple languages, the system contributes to more streamlined invoice management, especially for international businesses.
 
 ## References:
-Smith, R., 2021. "A Survey of Optical Character Recognition Systems". Journal of Image and Vision Computing, 45(3), pp.25-39.
-Lee, C., 2020. "Multilingual Invoice Processing Using OCR and Machine Translation". International Journal of Applied AI Research, 14(4), pp.67-80.
+1.Smith, R., 2021. "A Survey of Optical Character Recognition Systems". Journal of Image and Vision Computing, 45(3), pp.25-39
+
+
+2.Lee, C., 2020. "Multilingual Invoice Processing Using OCR and Machine Translation". International Journal of Applied AI Research, 14(4), pp.67-80.
 
 
