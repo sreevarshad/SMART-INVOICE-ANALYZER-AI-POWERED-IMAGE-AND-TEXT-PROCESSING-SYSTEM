@@ -38,6 +38,7 @@ Translation: The extracted text is translated into the specified language using 
 Response Generation: The system provides the user with both the extracted and translated text.
 
 ## System Architecture:
+![Invoice Example](images/Screenshot 2024-10-13 125903.png "Architecture")
 
 
 
