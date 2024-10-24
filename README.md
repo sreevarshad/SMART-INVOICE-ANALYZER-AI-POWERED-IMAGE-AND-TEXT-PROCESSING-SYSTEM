@@ -38,7 +38,7 @@ Translation: The extracted text is translated into the specified language using 
 Response Generation: The system provides the user with both the extracted and translated text.
 
 ## System Architecture:
-![Invoice Example](images/Screenshot 2024-10-13 125903.png "Architecture")
+![Invoice Example](https://github.com/sreevarshad/SMART-INVOICE-ANALYZER-AI-POWERED-IMAGE-AND-TEXT-PROCESSING-SYSTEM/blob/main/images/Screenshot%202024-10-13%20125903.png)
 
 
 
